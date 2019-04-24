@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/asomsiko/epid-sdk.svg?branch=master)](https://travis-ci.org/asomsiko/epid-sdk)
+
 <a href="https://scan.coverity.com/projects/asomsiko-epid-sdk">
   <img alt="Coverity Scan Build Status"
        src="https://img.shields.io/coverity/scan/18234.svg"/>
