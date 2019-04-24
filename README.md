@@ -1,3 +1,8 @@
+<a href="https://scan.coverity.com/projects/asomsiko-epid-sdk">
+  <img alt="Coverity Scan Build Status"
+       src="https://img.shields.io/coverity/scan/18234.svg"/>
+</a>
+
 # Intel(R) EPID SDK
 
 The Intel(R) Enhanced Privacy ID Software Development Kit
