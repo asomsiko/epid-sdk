@@ -1,0 +1,2 @@
+language: cpp
+script: ./configure && make all && make check && make install
